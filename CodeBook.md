@@ -30,7 +30,7 @@ With the dataset produced, we only want to keep the columns that contain the wor
 
 
 * TASK3 
-We use discriptive names for the activities, rather than activity names. We accomplish this by implementing the join function.
+We use discriptive names for the activities, rather than activity numbers. We accomplish this by implementing the join function.
  
 
 * TASK4
