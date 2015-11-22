@@ -39,3 +39,8 @@ Now, we use discriptive names for each measurement. We start by removing the par
 * TASK5
 
 We create a dataframe called "means_by_activity_subjectID" that removes the activityID column (which is not necessary anymore), and computes the mean by activity and by subjectID. The script ends by creating a txt file called "task5.txt" in the working directory which contains all the measurements averaged out by subjectID and activity, with no row labels
+
+NOTE ON RELEVANT UNITS
+
+* all acceleration measurements are written in standard gravity units 'g'
+* angular velocities have units of radians/second
